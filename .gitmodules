@@ -10,3 +10,6 @@
 [submodule "bundle/angry"]
 	path = bundle/angry
 	url = https://github.com/b4winckler/vim-angry.git
+[submodule "bundle/fugitive"]
+	path = bundle/fugitive
+	url = https://github.com/tpope/vim-fugitive.git
