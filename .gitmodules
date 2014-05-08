@@ -7,3 +7,6 @@
 [submodule "bundle/surround"]
 	path = bundle/surround
 	url = https://github.com/tpope/vim-surround.git
+[submodule "bundle/angry"]
+	path = bundle/angry
+	url = https://github.com/b4winckler/vim-angry.git
