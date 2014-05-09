@@ -121,7 +121,9 @@ no - $
 
 let mapleader="\<bs>"
 nmap <leader>/ :nohlsearch<CR>
+" LustyJuggler stuff
 map <leader>a :LustyJuggler<CR>
+set hidden
 
 " toggling mouse settings
 if exists("b:loaded_toggle_mouse_plugin")
