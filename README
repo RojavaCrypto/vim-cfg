@@ -1,0 +1,6 @@
+$ rm -fr .vim/ .vimrc
+$ git clone --recursive https://github.com/genjix/vim-cfg .vim
+$ ln .vim/vimrc .vimrc
+
+happy hacking
+
