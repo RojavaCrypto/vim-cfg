@@ -1,0 +1,8 @@
+[user]
+	email = xxx@xxx.xxx
+	name = YOUR NAME
+[push]
+	default = simple
+[alias]
+	lol = log --pretty=oneline --abbrev-commit --graph --decorate
+	ci = commit -a -v

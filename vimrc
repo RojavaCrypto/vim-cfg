@@ -16,7 +16,7 @@ set sts=4
 set showcmd
 "map <buffer> <S-e> :w<CR>:!/usr/bin/env python % <CR>
 set cursorline
-hi CursorLine   cterm=NONE ctermbg=darkgrey
+hi CursorLine   cterm=NONE ctermbg=black
 hi Folded ctermbg=NONE
 set hlsearch
 "map ; :
